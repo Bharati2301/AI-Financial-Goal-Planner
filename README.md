@@ -1,4 +1,4 @@
-# 🏆 **AI Financial Goal Planner - Spring 2024**
+# 🏆 **AI Financial Goal Planner**
 
 ## 📌 **Overview**
 This project is part of the **CSCI-572 - Information Retrieval and Web Search Engines** course at USC. The goal is to build an **AI-powered financial goal planner** that helps users create personalized savings plans based on their income, expenses, and financial goals (e.g., saving for a house, retirement, or paying off debt). The AI uses **LLaMA 3.1**, **ChromaDB**, and **Open Banking APIs** to generate optimized plans.
