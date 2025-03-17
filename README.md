@@ -7,10 +7,10 @@ This project is part of the **CSCI-572 - Information Retrieval and Web Search En
 
 ## 🎯 **Project Goals**
 
-- ✅ **Build a financial goal planner** to help users create personalized savings plans.
-- ✅ **Use AI-driven recommendations** to match financial strategies to users' goals.
-- ✅ **Integrate Open Banking APIs** (Plaid/Yodlee) to analyze real-time spending patterns.
-- ✅ **Optimize user savings plans** using a heuristic-based approach to improve financial strategies.
+- **Build a financial goal planner** to help users create personalized savings plans.
+- **Use AI-driven recommendations** to match financial strategies to users' goals.
+- **Integrate Open Banking APIs** (Plaid/Yodlee) to analyze real-time spending patterns.
+- **Optimize user savings plans** using a heuristic-based approach to improve financial strategies.
 
 ---
 
@@ -50,6 +50,6 @@ This project uses advanced AI models and databases to help users achieve financi
 
 ## 📌 **Future Improvements**
 
-- 🌲 **Implement Monte Carlo Tree Search (MCTS)** to improve probabilistic decision-making.
-- 📊 **Optimize the heuristic evaluation function** for better accuracy in financial planning.
-- 🚀 **Integrate more data sources** like credit scores and investment plans to offer more holistic financial advice.
+- **Implement Monte Carlo Tree Search (MCTS)** to improve probabilistic decision-making.
+- **Optimize the heuristic evaluation function** for better accuracy in financial planning.
+- **Integrate more data sources** like credit scores and investment plans to offer more holistic financial advice.
