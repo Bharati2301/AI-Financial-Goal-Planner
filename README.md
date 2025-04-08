@@ -9,7 +9,7 @@ This project is part of the **CSCI-572 - Information Retrieval and Web Search En
 
 - **Build a financial goal planner** to help users create personalized savings plans.
 - **Use AI-driven recommendations** to match financial strategies to users' goals.
-- **Integrate Open Banking APIs** (Plaid/Yodlee) to analyze real-time spending patterns.
+- **Integrate Open Banking APIs** (Yodlee) to analyze real-time spending patterns.
 - **Optimize user savings plans** using a heuristic-based approach to improve financial strategies.
 
 ---
@@ -19,7 +19,7 @@ This project is part of the **CSCI-572 - Information Retrieval and Web Search En
 - **Personalized savings plans** generated based on user input (income, expenses, goals).
 - **AI-driven recommendations** to optimize strategies for goals like buying a house, retirement, or paying off loans.
 - **Real-time progress tracking** with visual indicators (progress bar, suggestions).
-- **Integration with Open Banking APIs** (Plaid/Yodlee) to pull in actual spending and transaction data.
+- **Integration with Open Banking APIs** (Yodlee) to pull in actual spending and transaction data.
 - **Step-by-step savings plans** designed to help users achieve their financial goals faster.
 
 ---
@@ -30,7 +30,7 @@ This project uses advanced AI models and databases to help users achieve financi
 
 - **LLaMA 3.1**: Language model for generating the savings plans.
 - **ChromaDB**: Vector database for storing and retrieving financial strategies and plans.
-- **Open Banking APIs** (Plaid/Yodlee): For pulling real-time financial data like transactions and balances.
+- **Open Banking APIs** (Yodlee): For pulling real-time financial data like transactions and balances.
 - **Streamlit**: A web framework for developing an interactive user interface.
 
 ---
