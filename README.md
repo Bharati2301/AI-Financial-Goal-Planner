@@ -18,9 +18,7 @@ This project is part of the **CSCI-572 - Information Retrieval and Web Search En
 
 - **Personalized savings plans** generated based on user input (income, expenses, goals).
 - **AI-driven recommendations** to optimize strategies for goals like buying a house, retirement, or paying off loans.
-- **Real-time progress tracking** with visual indicators (progress bar, suggestions).
 - **Integration with Open Banking APIs** (Yodlee) to pull in actual spending and transaction data.
-- **Step-by-step savings plans** designed to help users achieve their financial goals faster.
 
 ---
 
